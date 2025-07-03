@@ -93,7 +93,7 @@ Technology isn’t just what I use—it’s what I grew up with, and what I cont
 
 ## 📬 Contact & Resume
 
-- 📄 [Download My Resume](./Allen%20Bartley%20-%20resume%206-18-2025%20v2.pdf)
+- 📄 [Download My Resume](./Allen_Bartley_Resume_2025.pdf)
 - 🔗 [GitHub Profile](https://github.com/Allen-Bartley)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/allen-bartley-b134a5275/)
 - 📧 wv25081@gmail.com
