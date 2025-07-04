@@ -29,6 +29,15 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 More to come—each project reflects not just what I know, but how I apply it to real-world systems.
 
 ---
+## 🧭 Technical Journeys
+
+These logs document my long-term engagement with specific technologies, highlighting how I explore, adapt, and evolve my skills over time. Unlike single-scope projects, these journeys reflect continuous learning, experimentation, and systems thinking across multiple tools and platforms.
+
+| Journey | Description |
+|--------|-------------|
+| [`3d-printing-journey-log`](https://github.com/Allen-Bartley/3d-printing-journey-log) | A reflective log of my multi-year 3D printing journey—from entry-level FDM to resin printing. Includes hardware evaluations, slicer ecosystems, workflow design, and post-processing strategies |
+
+---
 
 ## 🧰 Certifications & Credentials
 
