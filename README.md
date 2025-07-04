@@ -7,7 +7,7 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 ## 🎯 Professional Summary
 
 - 12+ years in technical support across ISP, enterprise, and financial sectors
-- 95%+ CSAT scores in Tier 1/2 support environments
+- High CSAT scores in Tier 1 support environments
 - Home lab enthusiast with virtualization, VPN, and AI deployment setups
 - Currently pursuing a dual-degree BS/MS in IT through WGU's accelerated program
 - Passionate about tech education, infrastructure documentation, and storytelling
