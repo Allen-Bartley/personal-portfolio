@@ -42,6 +42,10 @@ I maintain a detailed [Personal Tech Inventory & Lab Documentation](https://gith
 
 This repo reflects my philosophy of adaptability, documentation, and building systems that scale with purpose.
 
+![Markdown](https://img.shields.io/badge/Docs-Markdown-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Homelab_&_3D_Printing-orange?style=flat-square)
+
 ---
 ## 🧭 Technical Journeys
 
