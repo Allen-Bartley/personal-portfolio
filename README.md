@@ -31,14 +31,14 @@ More to come—each project reflects not just what I know, but how I apply it to
 
 ---
 
-## 🧰 Lab Documentation & Inventory
+### 🧰 Lab Documentation & Inventory
 
-I maintain a detailed [Personal Tech Inventory & Lab Documentation](https://github.com/Allen-Bartley/allen-lab-inventory) that showcases the tools, peripherals, and workflows I use in my homelab and study space. It includes:
+I maintain a detailed [**Personal Tech Inventory & Lab Documentation**](https://github.com/Allen-Bartley/allen-lab-inventory) that showcases the tools, peripherals, and workflows I use in my homelab and study space. It includes:
 
-- Real-world field notes and problem-solving stories
-- Modular workspace design and system layout
-- Everyday carry gear and mobile lab toolkit
-- Future project planning for 3D printing services and asset tracking
+- Real-world field notes and problem-solving stories  
+- Modular workspace design and system layout  
+- Everyday carry gear and mobile lab toolkit  
+- Future project planning for 3D printing services and asset tracking  
 
 This repo reflects my philosophy of adaptability, documentation, and building systems that scale with purpose.
 
