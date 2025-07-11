@@ -4,6 +4,17 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 
 ---
 
+## 🌟 Table of Contents
+- [🎯 Professional Summary](#-professional-summary)
+- [🛠️ Featured Projects](#-featured-projects)
+- [🧰 Lab Documentation & Inventory](#-lab-documentation--inventory)
+- [🛠️ Technical Journeys](#-technical-journeys)
+- [🧰 Certifications & Credentials](#-certifications--credentials)
+- [📺 My Tech Journey](#-my-tech-journey)
+- [📬 Contact & Resume](#-contact--resume)
+
+---
+
 ## 🎯 Professional Summary
 
 - 12+ years in technical support across ISP, enterprise, and financial sectors
