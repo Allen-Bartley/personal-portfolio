@@ -36,4 +36,49 @@ More to come—each project reflects not just what I know, but how I apply it to
 I maintain a detailed [**Personal Tech Inventory & Lab Documentation**](https://github.com/Allen-Bartley/allen-lab-inventory) that showcases the tools, peripherals, and workflows I use in my homelab and study space. It includes:
 
 - Real-world field notes and problem-solving stories  
-- Modular workspace design and system layout
+- Modular workspace design and system layout  
+- Everyday carry gear and mobile lab toolkit  
+- Future project planning for 3D printing services and asset tracking  
+
+This repo reflects my philosophy of adaptability, documentation, and building systems that scale with purpose.
+
+![Markdown](https://img.shields.io/badge/Docs-Markdown-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Homelab_&_3D_Printing-orange?style=flat-square)
+
+---
+
+## 🧭 Technical Journeys
+
+These logs document my long-term engagement with specific technologies, highlighting how I explore, adapt, and evolve my skills over time. Unlike single-scope projects, these journeys reflect continuous learning, experimentation, and systems thinking across multiple tools and platforms.
+
+| Journey | Description |
+|--------|-------------|
+| [`3d-printing-journey-log`](https://github.com/Allen-Bartley/3d-printing-journey-log) | A reflective log of my multi-year 3D printing journey—from entry-level FDM to resin printing. Includes hardware evaluations, slicer ecosystems, workflow design, and post-processing strategies |
+| [`ad-promotion-log`](https://github.com/Allen-Bartley/windows-server-ad-lab/blob/main/notes/ad-promotion-log.md) | A milestone-based log of building and joining a domain for the first time. Covers AD DS deployment, DHCP scope validation, NAT routing with RRAS, and client-side customization for enhanced usability. |
+
+---
+
+## 🧰 Certifications & Credentials
+*(no changes needed—this section is already strong and complete)*
+
+---
+
+## 📺 My Tech Journey
+*(unchanged, still excellent)*
+
+---
+
+## 📬 Contact & Resume
+
+- 📄 [Download My Resume](./Allen_Bartley_Resume_2025.pdf)
+- 🔗 [GitHub Profile](https://github.com/Allen-Bartley)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/allen-bartley-b134a5275/)
+- 📧 wv25081@gmail.com
+- 📍 Foster, West Virginia
+
+---
+
+> Repository Updated: July 2025  
+> Maintainer: Allen Bartley  
+> Status: In Progress — Always Learning
