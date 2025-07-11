@@ -47,7 +47,7 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 | [`personal-pc-build-2024`](https://github.com/Allen-Bartley/personal-pc-build-2024) | 🛠️ Hardware | Documentation of a high-performance desktop build for 3D printing, AI workflows, and IT lab use. Includes component selection, BIOS tuning, thermal optimization, and post-build benchmarking |
 | [`vinyl-digitization-guide`](https://github.com/Allen-Bartley/vinyl-digitization-guide) | 🎵 Media | Personal documentation for capturing, cleaning, and archiving vinyl records with accurate tagging and signal flow |
 | [`drive-cloning-migration`](https://github.com/Allen-Bartley/drive-cloning-migration) | 💽 Backup | Step-by-step system drive cloning with Macrium Reflect and Windows prep workflows for data migration and recovery |
-| [`artifact-recovery-lab`](https://github.com/Allen-Bartley/artifact-recovery-lab) | 🧬 Restoration | Experimental sandbox for working with legacy drives and fanfic backups, including multi-format restoration attempts |
+| [`artifact-recovery-lab`](https://github.com/Allen-Bartley/artifact-recovery-lab) | 📚 Digital Preservation | Recovered and modernized legacy fanfiction and RPG forum archives originally authored in Microsoft Works format. Used ImgBurn to convert original folder structures into ISO media, deployed on a Windows 7 virtual machine to circumvent compatibility issues with modern systems. Files were restored and exported to modern Word formats for archival and personal study. Project highlights cross-era software emulation, metadata recovery, and personalized digital preservation efforts. |
 
 ---
 
