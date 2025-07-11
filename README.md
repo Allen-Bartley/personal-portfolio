@@ -61,7 +61,53 @@ These logs document my long-term engagement with specific technologies, highligh
 
 ## 🧰 Certifications & Credentials
 
-**🔒 Cybersecurity** - Certified in Cybersecurity (CC) – *ISC2* (Certification) - Fortinet Certified Fundamentals Cybersecurity – *Fortinet* (Certification) - Introduction to the Threat Landscape (1.0 & 2.0) – *Fortinet* (Digital Badges) - Cybersecurity Essentials – *Coursera* (Digital Badge) - Cybersecurity Fundamentals – *IBM* (Digital Badge) - Cybersecurity Roles, Processes & OS Security – *Coursera* (Digital Badge) - Cisco Introduction to Cybersecurity – *Digital Badge* **🛠️ Technical Support & IT Operations** - CompTIA A+ CE & Network+ CE – *CompTIA* (Certifications) - CompTIA IT Operations Specialist – *CompTIA* (Certification Stack) - Google IT Support Professional Certificate (v2) – *Coursera* (Professional Certificate) - IBM IT Support Professional Certificate – *Coursera* (Professional Certificate) - Technical Support Basics – *Coursera* (Digital Badge) - Tech Support Capstone – *Coursera* (Digital Badge) - Hardware & Operating System Essentials – *Coursera* (Digital Badge) **📡 Networking & Infrastructure** - Networking Basics – *Cisco* (Digital Badge) - Operating Systems Basics – *Cisco* (Digital Badge) - Powerline Adapter Config & Drive Mapping – *GitHub Projects* **☁️ Cloud, AI & Emerging Technologies** - AWS Certified Cloud Practitioner – *AWS* (Certification) - Google AI Essentials – *Coursera* (Digital Badge) - Explore Emerging Tech – *IBM* (Digital Badge) - Introduction to Cloud Computing – *Coursera* (Digital Badge) - Stable Diffusion Deployment – *GitHub Project* **📋 Agile, Project Management & UX** - ITIL 4 Foundation – *PeopleCert* (Certification) - Agile Explorer – *IBM* (Digital Badge) - Project Management Fundamentals – *IBM* (Digital Badge) - Enterprise Design Thinking Practitioner – *IBM* (Digital Badge) **🧱 Development Foundations** - Web Development Fundamentals – *IBM SkillsBuild* (Digital Badge) - Software, Programming & Database Essentials – *Coursera* (Digital Badge) - Fit to Learn: Web Developer & IT Support Technician – *MyInnerGenius* (Digital Badges) 🔗 [View Full Credly Profile](https://www.credly.com/users/allen-l-bartley)
+**🔒 Cybersecurity** 
+
+- Certified in Cybersecurity (CC) – *ISC2* (Certification)
+- Fortinet Certified Fundamentals Cybersecurity – *Fortinet* (Certification)
+- Introduction to the Threat Landscape (1.0 & 2.0) – *Fortinet* (Digital Badges)
+- Cybersecurity Essentials – *Coursera* (Digital Badge)
+- Cybersecurity Fundamentals – *IBM* (Digital Badge)
+- Cybersecurity Roles, Processes & OS Security – *Coursera* (Digital Badge)
+- Cisco Introduction to Cybersecurity – *Digital Badge*
+
+**🛠️ Technical Support & IT Operations**
+
+- CompTIA A+ CE & Network+ CE – *CompTIA* (Certifications)
+- CompTIA IT Operations Specialist – *CompTIA* (Certification Stack)
+- Google IT Support Professional Certificate (v2) – *Coursera* (Professional Certificate)
+- IBM IT Support Professional Certificate – *Coursera* (Professional Certificate)
+- Technical Support Basics – *Coursera* (Digital Badge)
+- Tech Support Capstone – *Coursera* (Digital Badge)
+- Hardware & Operating System Essentials – *Coursera* (Digital Badge)
+
+**📡 Networking & Infrastructure** 
+
+- Networking Basics – *Cisco* (Digital Badge)
+- Operating Systems Basics – *Cisco* (Digital Badge)
+- Powerline Adapter Config & Drive Mapping – *GitHub Projects* 
+
+**☁️ Cloud, AI & Emerging Technologies** 
+
+- AWS Certified Cloud Practitioner – *AWS* (Certification)
+- Google AI Essentials – *Coursera* (Digital Badge)
+- Explore Emerging Tech – *IBM* (Digital Badge)
+- Introduction to Cloud Computing – *Coursera* (Digital Badge)
+- Stable Diffusion Deployment – *GitHub Project* 
+
+**📋 Agile, Project Management & UX** 
+
+- ITIL 4 Foundation – *PeopleCert* (Certification)
+- Agile Explorer – *IBM* (Digital Badge)
+- Project Management Fundamentals – *IBM* (Digital Badge)
+- Enterprise Design Thinking Practitioner – *IBM* (Digital Badge) 
+
+**🧱 Development Foundations** 
+
+- Web Development Fundamentals – *IBM SkillsBuild* (Digital Badge)
+- Software, Programming & Database Essentials – *Coursera* (Digital Badge)
+- Fit to Learn: Web Developer & IT Support Technician – *MyInnerGenius* (Digital Badges)
+- 🔗 [View Full Credly Profile](https://www.credly.com/users/allen-l-bartley)
 
 ---
 
