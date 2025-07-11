@@ -6,22 +6,33 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 
 ## 🌟 Table of Contents
 - [🎯 Professional Summary](#-professional-summary)
-- [🛠️ Featured Projects](https://github.com/Allen-Bartley/personal-portfolio/blob/main/README.md#%EF%B8%8F-featured-projects)
+- [📬 Contact & Resume](#-contact--resume)
+- [🛠️ Featured Projects](#-featured-projects)
 - [🧰 Lab Documentation & Inventory](#-lab-documentation--inventory)
-- [🛠️ Technical Journeys](#-technical-journeys)
+- [🧭 Technical Journeys](#-technical-journeys)
 - [🧰 Certifications & Credentials](#-certifications--credentials)
 - [📺 My Tech Journey](#-my-tech-journey)
-- [📬 Contact & Resume](#-contact--resume)
 
 ---
 
 ## 🎯 Professional Summary
 
-- 12+ years in technical support across ISP, enterprise, and financial sectors
-- High CSAT scores in Tier 1 support environments
-- Home lab enthusiast with virtualization, VPN, and AI deployment setups
-- Currently pursuing a dual-degree BS/MS in IT through WGU's accelerated program
-- Passionate about tech education, infrastructure documentation, and storytelling
+- 12+ years in technical support across ISP, enterprise, and financial sectors  
+- High CSAT scores in Tier 1 support environments  
+- Home lab enthusiast with virtualization, VPN, and AI deployment setups  
+- Currently pursuing a dual-degree BS/MS in IT through WGU's accelerated program  
+- Passionate about tech education, infrastructure documentation, and storytelling  
+
+---
+
+## 📬 Contact & Resume
+> Quick access for recruiters and collaborators
+
+- 📄 [Download My Resume](./Allen_Bartley_Resume_2025.pdf)  
+- 🔗 [GitHub Profile](https://github.com/Allen-Bartley)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/allen-bartley-b134a5275/)  
+- 📧 wv25081@gmail.com  
+- 📍 Foster, West Virginia  
 
 ---
 
@@ -37,8 +48,6 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 | [`vinyl-digitization-guide`](https://github.com/Allen-Bartley/vinyl-digitization-guide) | 🎵 Media | Personal documentation for capturing, cleaning, and archiving vinyl records with accurate tagging and signal flow |
 | [`drive-cloning-migration`](https://github.com/Allen-Bartley/drive-cloning-migration) | 💽 Backup | Step-by-step system drive cloning with Macrium Reflect and Windows prep workflows for data migration and recovery |
 | [`artifact-recovery-lab`](https://github.com/Allen-Bartley/artifact-recovery-lab) | 🧬 Restoration | Experimental sandbox for working with legacy drives and fanfic backups, including multi-format restoration attempts |
-
-More to come—each project reflects not just what I know, but how I apply it to real-world systems.
 
 ---
 
@@ -72,68 +81,58 @@ These logs document my long-term engagement with specific technologies, highligh
 
 ## 🧰 Certifications & Credentials
 
-**🔒 Cybersecurity** 
+**🔒 Cybersecurity**  
+- Certified in Cybersecurity (CC) – *ISC2*  
+- Fortinet Certified Fundamentals Cybersecurity – *Fortinet*  
+- Introduction to the Threat Landscape (1.0 & 2.0) – *Fortinet*  
+- Cybersecurity Essentials – *Coursera*  
+- Cybersecurity Fundamentals – *IBM*  
+- Cybersecurity Roles, Processes & OS Security – *Coursera*  
+- Cisco Introduction to Cybersecurity  
 
-- Certified in Cybersecurity (CC) – *ISC2* (Certification)
-- Fortinet Certified Fundamentals Cybersecurity – *Fortinet* (Certification)
-- Introduction to the Threat Landscape (1.0 & 2.0) – *Fortinet* (Digital Badges)
-- Cybersecurity Essentials – *Coursera* (Digital Badge)
-- Cybersecurity Fundamentals – *IBM* (Digital Badge)
-- Cybersecurity Roles, Processes & OS Security – *Coursera* (Digital Badge)
-- Cisco Introduction to Cybersecurity – *Digital Badge*
+**🛠️ Technical Support & IT Operations**  
+- CompTIA A+ CE & Network+ CE – *CompTIA*  
+- CompTIA IT Operations Specialist – *CompTIA*  
+- Google IT Support Professional Certificate – *Coursera*  
+- IBM IT Support Professional Certificate – *Coursera*  
+- Technical Support Basics – *Coursera*  
+- Tech Support Capstone – *Coursera*  
+- Hardware & Operating System Essentials – *Coursera*
 
-**🛠️ Technical Support & IT Operations**
+**📡 Networking & Infrastructure**  
+- Networking Basics – *Cisco*  
+- Operating Systems Basics – *Cisco*  
+- Powerline Adapter Config & Drive Mapping – *GitHub Projects*
 
-- CompTIA A+ CE & Network+ CE – *CompTIA* (Certifications)
-- CompTIA IT Operations Specialist – *CompTIA* (Certification Stack)
-- Google IT Support Professional Certificate (v2) – *Coursera* (Professional Certificate)
-- IBM IT Support Professional Certificate – *Coursera* (Professional Certificate)
-- Technical Support Basics – *Coursera* (Digital Badge)
-- Tech Support Capstone – *Coursera* (Digital Badge)
-- Hardware & Operating System Essentials – *Coursera* (Digital Badge)
+**☁️ Cloud, AI & Emerging Technologies**  
+- AWS Certified Cloud Practitioner – *AWS*  
+- Google AI Essentials – *Coursera*  
+- Explore Emerging Tech – *IBM*  
+- Introduction to Cloud Computing – *Coursera*  
+- Stable Diffusion Deployment – *GitHub Project*
 
-**📡 Networking & Infrastructure** 
+**📋 Agile, Project Management & UX**  
+- ITIL 4 Foundation – *PeopleCert*  
+- Agile Explorer – *IBM*  
+- Project Management Fundamentals – *IBM*  
+- Enterprise Design Thinking Practitioner – *IBM*
 
-- Networking Basics – *Cisco* (Digital Badge)
-- Operating Systems Basics – *Cisco* (Digital Badge)
-- Powerline Adapter Config & Drive Mapping – *GitHub Projects* 
+**🧱 Development Foundations**  
+- Web Development Fundamentals – *IBM SkillsBuild*  
+- Software, Programming & Database Essentials – *Coursera*  
+- Fit to Learn: Web Developer & IT Support Technician – *MyInnerGenius*  
 
-**☁️ Cloud, AI & Emerging Technologies** 
-
-- AWS Certified Cloud Practitioner – *AWS* (Certification)
-- Google AI Essentials – *Coursera* (Digital Badge)
-- Explore Emerging Tech – *IBM* (Digital Badge)
-- Introduction to Cloud Computing – *Coursera* (Digital Badge)
-- Stable Diffusion Deployment – *GitHub Project* 
-
-**📋 Agile, Project Management & UX** 
-
-- ITIL 4 Foundation – *PeopleCert* (Certification)
-- Agile Explorer – *IBM* (Digital Badge)
-- Project Management Fundamentals – *IBM* (Digital Badge)
-- Enterprise Design Thinking Practitioner – *IBM* (Digital Badge) 
-
-**🧱 Development Foundations** 
-
-- Web Development Fundamentals – *IBM SkillsBuild* (Digital Badge)
-- Software, Programming & Database Essentials – *Coursera* (Digital Badge)
-- Fit to Learn: Web Developer & IT Support Technician – *MyInnerGenius* (Digital Badges)
-- 🔗 [View Full Credly Profile](https://www.credly.com/users/allen-l-bartley)
+🔗 [View Full Credly Profile](https://www.credly.com/users/allen-l-bartley)
 
 ---
 
 ## 📺 My Tech Journey
-Born in 1982, I grew up alongside the rise of consumer computing. As a kid, I explored BASIC on our Atari system and played *Carmen Sandiego*, *Oregon Trail*, and *Frogger* on our Apple IIc. In the early 2000s, I was hooked on TechTV classics like *The Screen Savers* and *Call for Help*. These experiences built my intuition for hardware, troubleshooting, and systems integration. From swapping out GPUs to building my first PC from scratch, I learned by doing. Today, that same mindset guides my network mapping, AI deployment, and continuous certification journey. Technology isn’t just what I use—it’s what I grew up with, and what I continue to shape. 🔧📼🧠
 
----
+Born in 1982, I grew up alongside the rise of consumer computing. As a kid, I explored BASIC on our Atari system and played *Carmen Sandiego*, *Oregon Trail*, and *Frogger* on our Apple IIc. In the early 2000s, I was hooked on TechTV classics like *The Screen Savers* and *Call for Help*. These experiences built my intuition for hardware, troubleshooting, and systems integration.
 
-## 📬 Contact & Resume
+From swapping out GPUs to building my first PC from scratch, I learned by doing. Today, that same mindset guides my network mapping, AI deployment, and continuous certification journey.
 
-- 📄 [Download My Resume](./Allen_Bartley_Resume_2025.pdf)
-- 🔗 [GitHub Profile](https://github.com/Allen-Bartley)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/allen-bartley-b134a5275/)
-- 📧 wv25081@gmail.com
-- 📍 Foster, West Virginia
+Technology isn’t just what I use—it’s what I grew up with, and what I continue to shape. 🔧📼🧠
 
 ---
 
