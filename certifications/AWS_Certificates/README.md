@@ -1,15 +1,37 @@
-# ☁️ AWS Certifications
+# AWS Certifications
 
-Amazon Web Services (AWS) certifications validate cloud expertise, demonstrating proficiency in designing, deploying, and operating applications and infrastructure on the AWS platform. As a leader in cloud computing, AWS skills are highly sought after in modern IT environments.
+This folder currently contains the **AWS Certified Cloud Practitioner** credential earned by Allen Bartley on **May 10, 2025** (valid through May 10, 2028).
 
-## My AWS Certifications:
+## 🌐 Certification Overview
 
-* [cite_start]**AWS Certified Cloud Practitioner** [cite: 2565]
-    * [cite_start]Issued: May 10, 2025 [cite: 2568]
-    * [cite_start]Expires: May 10, 2028 [cite: 2569]
-    * [cite_start][Verify Credential](https://aws.amazon.com/verification) [cite: 2567]
-    * *Relevance:* This certification validates my foundational understanding of cloud concepts, AWS services, and their practical application in cloud infrastructure. It's essential for understanding modern hybrid IT environments and preparing for more advanced cloud roles.
+The **AWS Certified Cloud Practitioner** certification validates foundational knowledge of:
+- Core AWS services and their global infrastructure
+- Basic cloud concepts and pricing models
+- Security and compliance in the AWS ecosystem
+- Cloud architecture principles for non-technical professionals
 
----
+It demonstrates readiness to engage with cloud initiatives, contribute to cloud-driven projects, and communicate cloud benefits to technical and non-technical audiences alike.
 
-All my certifications, including this one, are verifiable on my [Credly Profile](https://www.credly.com/users/allen-l-bartley).
+🔗 [Verify the certification](https://aws.amazon.com/verification)  
+Validation Number: `9014353f243e4c4c8ee319cf708f3d01`
+
+## 🧩 Key Skills Demonstrated
+- Understanding of cloud economics and billing
+- Basic architecture and deployment concepts
+- AWS shared responsibility model
+- Foundational security awareness in cloud environments
+
+## 💼 Relevance to Portfolio
+
+This certification supports Allen's broader portfolio by:
+- Providing essential context for cloud-based IT support and infrastructure
+- Enabling future integration of AWS tools into hybrid compute workflows and modular environments
+- Laying the groundwork for deeper cloud exploration, including system administration, DevOps, or cybersecurity tracks
+
+## 🚀 What's Next?
+
+Allen plans to expand this folder with:
+- Hands-on AWS labs and workflow documentation
+- Potential pursuit of advanced AWS certifications (e.g., Solutions Architect Associate)
+- Cloud-based recovery workflows or archival deployments tied to active GitHub projects
+
