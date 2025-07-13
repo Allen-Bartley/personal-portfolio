@@ -7,7 +7,7 @@ This folder contains Allen Bartley's credential in IT Service Management via **I
 ### 📘 ITIL 4 Foundation – PeopleCert (2023)
 
 📄 [View PDF](https://github.com/Allen-Bartley/personal-portfolio/blob/main/certifications/ITIL/ITIL-4-Foundation.pdf)  
-🔗 [Verify Certificate](https://www.peoplecert.org/verify)
+🔗 [Verify Certificate](https://www.credly.com/badges/ac1ddfd8-91dc-4a80-90bc-c6bb3496209e)
 
 **Certificate ID:** `GR671565076AB`  
 **Candidate Number:** `9980097382489545`  
