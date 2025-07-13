@@ -5,28 +5,33 @@ This folder showcases Allen Bartley's long-term commitment to IT excellence, beg
 ## 🗂️ Certifications Included
 
 ### ✅ CompTIA A+ (2005)  
-Original certification in IT support fundamentals—covering hardware, operating systems, and troubleshooting
+Original certification in IT support fundamentals—covering hardware, operating systems, and troubleshooting  
+📄 [View PDF](./CompTIA%20A%2B%20certificate.pdf)
 
 ### 🔄 CompTIA A+ ce (2024–2028)  
 Renewed certification verifying current skills in:
 - Mobile and desktop support
 - Operating system configuration (Windows, Linux, macOS)
-- Remote troubleshooting and ticketing tools
+- Remote troubleshooting and ticketing tools  
+📄 [View PDF](./CompTIA%20A%2B%20ce%20certificate%206-18-2025.pdf)
 
 ### ✅ CompTIA Network+ (2005)  
-Early credential highlighting foundational knowledge of TCP/IP, network configuration, and security
+Early credential highlighting foundational knowledge of TCP/IP, network configuration, and security  
+📄 [View PDF](./CompTIA%20Network%2B%20certificate.pdf)
 
 ### 🔄 CompTIA Network+ ce (2025–2028)  
 Renewed certification demonstrating expertise in:
 - Network architecture (LAN/WAN/WLAN)
 - Troubleshooting common connectivity issues
-- Network security protocols and threat mitigation
+- Network security protocols and threat mitigation  
+📄 [View PDF](./CompTIA%20Network%2B%20ce%20certificate.pdf)
 
 ### 🏆 CompTIA IT Operations Specialist – CIOS  
 Special designation combining A+ and Network+ to signal broad operational readiness for:
 - Systems support
 - Network administration
-- Helpdesk and Tier 2 troubleshooting roles
+- Helpdesk and Tier 2 troubleshooting roles  
+📄 [View PDF](./CompTIA%20IT%20Operations%20Specialist%20%E2%80%93%20CIOS.pdf)
 
 ## 🧠 Key Skills & Competencies
 
@@ -49,4 +54,3 @@ Allen is actively seeking IT support roles, continuing education via WGU’s acc
 - Windows recovery workflows
 - VPN deployment guides
 - Local media preservation strategies
-
