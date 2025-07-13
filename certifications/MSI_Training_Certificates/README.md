@@ -11,7 +11,7 @@ MSI offers multiple tiers of recognition. Allen’s portfolio includes:
 | **Full Certifications** | Comprehensive programs with formal exams and transcripts | Paid | AI Prompting Essentials Certified – Advanced |
 | **Free Certifications** | Entry-level programs with study material and exam | Free | Lean Six Sigma White Belt, Project Management Essentials |
 | **Micro-Certifications** | Targeted soft-skill credentials with short exams | Mostly paid | Empathy, Teamwork, Time Management, Risk Management |
-| **Free Training Programs** | Short modules with completion certificates (not considered certifications) | Free | Misinformation & Disinformation, 5W2H, 8D Problem-Solving |
+| **Free Training Programs** | Short modules with completion certificates (not considered certifications) | Free | Misinformation & Disinformation |
 
 ## 📦 Folder Contents
 
