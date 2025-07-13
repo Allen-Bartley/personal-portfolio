@@ -32,7 +32,7 @@ Accredited by **IAB Europe** and supported by **The Open University**, this cert
 - Online ad targeting and campaign analytics
 - Social media outreach and brand building fundamentals
 
-📄 [View PDF](https://github.com/Allen-Bartley/personal-portfolio/blob/main/certifications/Google_Certificates/digitalgarage_certificate.pdf)  
+📄 [View PDF](https://github.com/Allen-Bartley/personal-portfolio/blob/main/certifications/Google_Certificates/Google-Digital-Garage-Fundamentals-of-Digital-Marketing.pdf)  
 🔗 [Verify Certificate](https://learndigital.withgoogle.com/link/1qsdpcedm9s)  
 Certificate ID: `JVZ 4XW JAC`  
 Date of Completion: **April 5, 2023**
