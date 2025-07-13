@@ -9,7 +9,7 @@ Three-course specialization focused on foundational IT and networking skills:
 - Network Installation Fundamentals
 - Network Support Fundamentals
 - Application Security Support Fundamentals  
-📄 [View PDF](https://github.com/Allen-Bartley/personal-portfolio/blob/main/certifications/Coursera/Coursera-CompTIA-a%2B_network.pdf) 
+📄 [View PDF](https://github.com/Allen-Bartley/personal-portfolio/blob/main/certifications/Coursera/Coursera-CompTIA-a%2B_network.pdf)  
 🔗 [Verify Certificate](https://coursera.org/verify/specialization/9EXUMKPD2QVY)
 
 ### 🗣️ Customer Service Fundamentals – Knowledge Accelerators (2023)
