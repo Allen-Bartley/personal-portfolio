@@ -20,10 +20,10 @@ Whether delivering support, documenting recovery workflows, or launching service
 |--------|-------------|
 | `AWS_Certificates/` | Cloud certification: AWS Certified Cloud Practitioner |
 | `CompTIA/` | Industry certifications: A+ (ce and GFL), Network+ (ce and GFL), and IT Operations Specialist |
-| `Coursera/` | IT and service-related credentials from Google, IBM, LearnQuest, NVIDIA, and Knowledge Accelerators |
+| `Coursera/` | IT and service-related credentials from CompTIA, LearnQuest, NVIDIA, and Knowledge Accelerators |
 | `Fortinet/` | Cybersecurity fundamentals: Fortinet Certified Fundamentals in Cybersecurity |
-| `Google_Certificates/` | Digital marketing and IT support credentials via Google and Coursera |
-| `IBM_Certificates/` | Credentials in enterprise design thinking and customer engagement via IBM SkillsBuild |
+| `Google_Certificates/` | Digital marketing, AI, and IT support credentials via Google and Coursera |
+| `IBM_Certificates/` | Credentials in IT Support, enterprise design thinking, and customer engagement via IBM SkillsBuild |
 | `ISC2/` | Cybersecurity credential: Certified in Cybersecurity (CC) from ISC2 |
 | `ITIL/` | Service management certification: ITIL 4 Foundation from PeopleCert |
 | `MSI_Training_Certificates/` | 26 credentials from the Management and Strategy Institute, including full certifications, micro-certifications, and free training completions |
