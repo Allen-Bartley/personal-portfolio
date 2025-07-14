@@ -130,11 +130,11 @@ These logs document my long-term engagement with specific technologies, highligh
 
 ## 📺 My Tech Journey
 
-Born in 1982, I grew up alongside the rise of consumer computing. As a kid, I explored BASIC on our Atari system and played *Carmen Sandiego*, *Oregon Trail*, and *Frogger* on our Apple IIc. In the early 2000s, I was hooked on TechTV classics like *The Screen Savers* and *Call for Help*. These experiences built my intuition for hardware, troubleshooting, and systems integration.
+Born in 1982, I grew up alongside the rise of consumer computing. As a kid, I explored BASIC on our Atari system and played *Carmen Sandiego*, *Oregon Trail*, and *Frogger* on our Apple IIc. I also carried a **Royal DM70NX electronic organizer** through middle and high school—a flip-top device with a QWERTY-style keyboard, memo pad, scheduler, and calculator. It was my first hands-on experience with portable digital organization, sparking an early interest in modular systems and structured data long before smartphones.
 
-From swapping out GPUs to building my first PC from scratch, I learned by doing. Today, that same mindset guides my network mapping, AI deployment, and continuous certification journey.
+In the early 2000s, I became a regular viewer of TechTV staples like *The Screen Savers* and *Call for Help*, learning troubleshooting methods and watching hardware builds unfold in real time. I later picked up a **brick-style Nokia phone** on a TracFone prepaid plan—indestructible and iconic, but prone to misdials from inside a pocket, sometimes consuming nearly all my minutes. To solve that, I upgraded to a **clamshell flip phone**, which prevented accidental dialing and shaped how I thought about physical design and user experience in mobile tech.
 
-Technology isn’t just what I use—it’s what I grew up with, and what I continue to shape. 🔧📼🧠
+From swapping out GPUs to building my first PC from scratch, I learned by doing. Today, that same mindset guides my network mapping, AI deployment, and continuous certification journey. Technology isn’t just what I use—it’s what I grew up with, and what I continue to shape. 🔧📼🧠
 
 ---
 
