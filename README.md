@@ -1,5 +1,7 @@
 # 👨‍💻 Allen Bartley – Personal Portfolio
 
+Hi, I’m Allen Bartley—technologist, documentarian, and systems tinkerer. I recover what others replace and design the workflows behind the solutions.
+
 Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hands-on experience, a passion for troubleshooting, and a deep commitment to continuous learning. Whether it's configuring distributed networks across a home office or deploying AI workflows remotely, I thrive at the intersection of curiosity and practical application.
 
 ---
@@ -142,3 +144,5 @@ From swapping out GPUs to building my first PC from scratch, I learned by doing.
 > Repository Updated: July 2025  
 > Maintainer: Allen Bartley  
 > Status: In Progress — Always Learning
+
+<!-- Keywords: IT Support, System Recovery, AI Workflow, Network Architecture, Homelab, Media Preservation, Cybersecurity -->
