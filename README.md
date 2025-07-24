@@ -10,7 +10,7 @@ Welcome to my portfolio! I'm an IT Support Specialist with over 12 years of hand
 - [🎯 Professional Summary](#-professional-summary)
 - [🧭 My Journey: From Local Constraints to Remote Possibilities](#-my-journey-from-local-constraints-to-remote-possibilities)
 - [📬 Contact & Resume](#-contact--resume)
-- [🛠️ Featured Projects]([#-featured-projects](https://github.com/Allen-Bartley/personal-portfolio/blob/main/README.md#%EF%B8%8F-featured-projects))
+- [🛠️ Featured Projects](https://github.com/Allen-Bartley/personal-portfolio/blob/main/README.md#%EF%B8%8F-featured-projects)
 - [🧰 Lab Documentation & Inventory](#-lab-documentation--inventory)
 - [🧭 Technical Journeys](#-technical-journeys)
 - [🧰 Certifications & Credentials](#-certifications--credentials)
