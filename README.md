@@ -83,20 +83,27 @@ I am actively seeking a fully remote role where I can bring this passion, resili
 
 ## 💻 Hardware & Technical Builds
 
+| Project | Domain | Description |
+|--------|--------|-------------|
 | [**personal-pc-build-2024**](https://github.com/Allen-Bartley/personal-pc-build-2024) | 🛠️ Hardware | Documentation of a high-performance desktop build for 3D printing, AI workflows, and IT lab use. Includes component selection, BIOS tuning, thermal optimization, and benchmarking. |
 | [**ender3-upgrade-project**](https://github.com/Allen-Bartley/ender3-upgrade-project) | 🖨️ 3D Printing | Full hardware and firmware rebuild of a Creality Ender 3 with SKR Mini E3 board, BLTouch, dual Z-axis, and direct drive extruder. Includes custom wiring, safety fixes, and community-sourced firmware integration. |
 | [**drive-cloning-migration**](https://github.com/Allen-Bartley/drive-cloning-migration) | 💽 Backup | Step-by-step system drive cloning with Macrium Reflect and Windows prep workflows for data migration and recovery. |
 
 ## 📚 Media Preservation & Digital Archiving
 
+| Project | Domain | Description |
+|--------|--------|-------------|
 | [**analog-revival-hub**](https://github.com/Allen-Bartley/analog-revival-hub) | 🎞️ Media Preservation | A modular suite of workflows for digitizing analog media. Includes guides for VHS streaming, USB vinyl workflows, and upcoming DIY DVR restoration using vintage ATI hardware. |
 | [**arcus-artifact-emporium-lore-archive**](https://github.com/Allen-Bartley/arcus-artifact-emporium-lore-archive) | 📚 Digital Preservation | Recovered and modernized fanfiction and RPG archives originally authored in Microsoft Works format. Used ISO creation and VM deployment to restore compatibility and migrate content. |
 
 ## 🧠 AI & Technical Documentation
 
+| Project | Domain | Description |
+|--------|--------|-------------|
 | [**local-llm-deployment**](https://github.com/Allen-Bartley/local-llm-deployment) | 🤖 AI / LLM | Documented local chatbot deployment with LM Studio and Ollama using quantized GGUF models. Explores uncensored model behavior, persona modeling, and ethical AI sandboxing. |
 | [**stable-diffusion-vpn-access**](https://github.com/Allen-Bartley/stable-diffusion-vpn-access) | 🧠 AI / VPN | Engineered a remote Stable Diffusion pipeline using Hamachi VPN to bypass laptop constraints. Enabled browser-based access to GPU-powered desktop for image generation. |
 | [**ai-assisted-portfolio-pipeline**](https://github.com/Allen-Bartley/ai-assisted-portfolio-pipeline) | 🧾 Workflow / Documentation | Developed a repeatable system for portfolio narration using voice-to-text and Copilot refinement. Showcases prompt engineering and iterative technical storytelling. |
+
 
 
 ---
