@@ -67,7 +67,11 @@ I am actively seeking a fully remote role where I can bring this passion, resili
 
 ---
 
+## 🛠️ Featured Projects
+> A curated list of hands-on projects that demonstrate my problem-solving, system recovery, and technical storytelling across networking, hardware, media, and AI workflows.
+
 ## 🧩 Systems & Infrastructure
+
 
 | Project | Domain | Description |
 |--------|--------|-------------|
