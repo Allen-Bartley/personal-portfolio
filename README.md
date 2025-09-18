@@ -44,7 +44,7 @@ This philosophy of practical, user-focused problem-solving is the foundation of 
 
 ### Dedication, Readiness, and the Road to Remote
 
-For over a decade, my professional life involved a daily commute of up to 1.5 hours to the Charleston area for the best available on-site tech roles. For just as long, my ability to pursue remote work was limited by a bonded DSL connection with upload speeds of just 1Mbps.
+For over a decade, my professional life involved a daily commute of up to 1.5 hours to the Charleston area for the best available on-site tech roles. For just as long, my ability to pursue remote work was limited by a bonded DSL connection with a download of 20Mbps and a upload speeds of just 1Mbps.
 
 This environment shaped my approach: I had to be self-reliant, which is why these projects are solo endeavors. I had to be dedicated, and I had to find a way to keep growing. Now, with the recent arrival of gigabit fiber to my home, those constraints are gone.
 
